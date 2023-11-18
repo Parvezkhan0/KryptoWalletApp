@@ -3,9 +3,9 @@ const main = async () => {
   const transactions = await Transactions.deploy();
   await transactions.deployed();
 
-  console.log("Transactions deployed to : ", transactions.address);
+  console.log("Transactions deployed to : ", transactionsContract.address);
 
-}
+};
 const runMain = async() => {
   try {
     await main();
@@ -16,6 +16,5 @@ const runMain = async() => {
     process.exit(1);
   }
   
-}
+};
 runMain();
-
