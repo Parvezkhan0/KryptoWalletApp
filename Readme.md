@@ -23,7 +23,7 @@ KryptoWalletApp is a basic Hardhat project showcasing Ethereum development pract
 2. Navigate to the project directory:
 
    ```bash
-cd KryptoWalletApp
+   cd KryptoWalletApp
    ```
 
 3. Install dependencies:
