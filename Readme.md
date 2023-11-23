@@ -1,11 +1,11 @@
 
 
 
-# CryptoLink Hub
+# KryptoWalletApp
 
 ## Overview
 
-CryptoLink Hub is a basic Hardhat project showcasing Ethereum development practices. It features a sample contract, a corresponding test suite, a deployment script, and an example task implementation. This serves as a foundation for developers to explore and understand the functionalities of Hardhat in Ethereum development.
+KryptoWalletApp is a basic Hardhat project showcasing Ethereum development practices. It features a sample contract, a corresponding test suite, a deployment script, and an example task implementation. This serves as a foundation for developers to explore and understand the functionalities of Hardhat in Ethereum development.
 
 ## Getting Started
 
@@ -17,13 +17,13 @@ CryptoLink Hub is a basic Hardhat project showcasing Ethereum development practi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Parvezkhan0/cryptoLink-Hub.git
+   git clone https://github.com/Parvezkhan0/KryptoWalletApp.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd cryptoLink-Hub
+cd KryptoWalletApp
    ```
 
 3. Install dependencies:
