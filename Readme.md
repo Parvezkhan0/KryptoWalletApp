@@ -82,7 +82,3 @@ For more commands and options, refer to the Hardhat help:
 npx hardhat help
 ```
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the standard GitHub workflow: Fork, Branch, Commit, and Open a Pull Request.
-
