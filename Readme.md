@@ -3,7 +3,7 @@
 
 ## Overview
 
-KryptoWalletApp is a basic Hardhat project showcasing Ethereum development practices. It features a sample contract, a corresponding test suite, a deployment script, and an example task implementation. This serves as a foundation for developers to explore and understand the functionalities of Hardhat in Ethereum development.
+KryptoWalletApp is a basic Hardhat project showcasing Ethereum development practices. It features a sample contract, a corresponding test suite, a deployment script, & an example task implementation. This serves as a foundation for developers to explore and understand the functionalities of Hardhat in Ethereum development.
 
 ## Getting Started
 
