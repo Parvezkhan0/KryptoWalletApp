@@ -76,7 +76,7 @@ node scripts/sample-script.js
 
 ### Additional Commands
 
-For more commands and options, refer to the Hardhat help:
+For more commands & options, refer to the Hardhat help:
 
 ```bash
 npx hardhat help
